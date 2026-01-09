@@ -4,7 +4,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-CSwohH6Lox](https://www.frontendmentor.io/solutions/interactive-rating-component-CSwohH6Lox)
 - Live Site URL: [https://z-khutsishvili.github.io/interactive-rating-component/](https://z-khutsishvili.github.io/interactive-rating-component/)
 
 ## Built with
